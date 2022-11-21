@@ -1,0 +1,17 @@
+{
+    "name": "terada/pdf",
+    "autoload": {
+        "psr-4": {
+            "Terada\\Pdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TeradaAki",
+            "email": "terada.aki@yahoo.com"
+        }
+    ],
+    "require": {
+        "fpdf/fpdf": "^1.85"
+    }
+}
